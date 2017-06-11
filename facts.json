@@ -1,0 +1,26 @@
+{
+    "0" : {
+        "type" : "Game",
+        "name" : "Sonic the Hedgehog",
+        "fact" : "Sonic the Hedgehog was released on the Sega Genesis June 23, 1991",
+        "platform" : "Genesis"
+    },
+    "1" : {
+        "type": "Game",
+        "name" : "Sonic the Hedgehog 2",
+        "fact" : "Sonic the Hedgehog 2 was released on the Sega Genesis November 21, 1992",
+        "platform" : "Genesis"
+    },
+    "2" : {
+        "type": "Game",
+        "name" : "Sonic the Hedgehog 3",
+        "fact" : "Sonic the Hedgehog 3 was released on the Sega Genesis February, 1994",
+        "platform" : "Genesis"
+    },
+    "3" : {
+        "type": "Game",
+        "name" : "Sonic & Knuckles",
+        "fact" : "Sonic & Knuckles was released on the Sega Genesis October 18, 1994",
+        "platform" : "Genesis"
+    }   
+}

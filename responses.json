@@ -1,0 +1,16 @@
+{
+    "LaunchRequest": 
+    {
+        "ask":"Welcome to Sonic Facts. Do you want a fact?",
+        "reprompt": "Do you want a fact?"
+    },
+    "AMAZON.HelpIntent":
+    {
+        "ask": "Here are some things you can say: Give me a fact about Sonic, or, tell me a fact.",
+        "reprompt": "Would you like a fact about Sonic?"
+    },
+    "AMAZON.StopIntent":
+    {
+        "tell": "Gotta go fast!"
+    }
+}
