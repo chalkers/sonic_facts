@@ -1,0 +1,32 @@
+{
+  "name": "sonic_facts",
+  "version": "1.0.0",
+  "description": "A Sonic the Hedgehog factoid skill",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/chalkers/sonic_facts.git"
+  },
+  "keywords": [
+    "sonic",
+    "skill",
+    "hedgehog",
+    "sega",
+    "genesis",
+    "alexa",
+    "echo",
+    "amazon"
+  ],
+  "author": "Andrew Chalkley <andrew@chalkley.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chalkers/sonic_facts/issues"
+  },
+  "homepage": "https://github.com/chalkers/sonic_facts#readme",
+  "dependencies": {
+    "alexa-sdk": "^1.0.10"
+  }
+}
